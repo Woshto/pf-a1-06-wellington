@@ -1,1 +1,1 @@
-PrettyFlights - Totem de Chackin
+PrettyFlights - Totem de Checkin
