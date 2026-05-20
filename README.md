@@ -8,3 +8,5 @@ HOTFIX: Foi encontrado um bug. A senha do usuário fica exposta durante o preenc
 HOTFIX: Bug corrigido e pronto para ser testado. 
 
 HOTFIX: Solução em teste
+
+HOTFIX: Solução aprovada.
