@@ -10,3 +10,5 @@ HOTFIX: Bug corrigido e pronto para ser testado.
 HOTFIX: Solução em teste
 
 HOTFIX: Solução aprovada, criar a versão 1.0.1
+
+Versão atual 1.0.1 liberada
